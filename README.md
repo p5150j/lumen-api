@@ -40,7 +40,7 @@ Get [Lumen](https://lumen.laravel.com/) globally on your machine.
 | PUT | /api/authors/:id |
 | DELETE | /api/authors/:id |
 
-## Json objects are direct relations to tables in your db
+## Json objects are direct relations to your data in your db
     {
         "id": ,
         "name": "",
